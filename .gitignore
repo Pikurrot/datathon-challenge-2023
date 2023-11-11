@@ -1,3 +1,7 @@
 .replit
 poetry.lock
 pyproject.toml
+.pythonlibs
+.config
+dataset.xlsx
+test.py
